@@ -1,2 +1,3 @@
 # hello-world
-a place to store ideas, resources, and share with others
+
+a place to store and share ideas, resources, and more.
